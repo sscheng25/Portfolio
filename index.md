@@ -1,4 +1,4 @@
-## Portfolio
+## My MUSA projects
 
 ---
 
@@ -8,12 +8,12 @@
 <img src="images/House_Price_Prediction.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Crime Prediction in Chicago](https://github.com/sscheng25/MUSA508_CrimePrediction)
+<img src="images/Theft_Prediction.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Human-based Regression](https://github.com/sscheng25/MUSA508_Human-base-regression)
+<img src="images/Human-based_Regression.png?raw=true"/>
 
 ---
 
