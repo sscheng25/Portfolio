@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### MUSA 508 Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[House Price Prediction in Boulder County, CO](https://github.com/sscheng25/MUSA508_HousePricePrediction)
+<img src="images/House_Price_Prediction.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
