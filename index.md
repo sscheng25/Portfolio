@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](/MUSA508_HousePricePrediction)
 <img src="images/photo.jpg?raw=true"/>
 
 ---
