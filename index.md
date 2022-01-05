@@ -1,8 +1,8 @@
-## My MUSA projects
+## My Projects
 
 ---
 
-### MUSA 508 Projects 
+### Machine Learning Predictions 
 
 [On-street Parking Demand Prediction and Dynamic Pricing Strategy in San Francisco](https://sscheng25.github.io/Portfolio/ParkingDemand_SanFrancisco.html)
 <img src="images/parking_prediction.png?raw=true"/>
@@ -22,16 +22,21 @@
 
 ---
 
-### Category Name 2
+### Web-based Applications
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
 
+### Web-based Dashboard
+
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
+
+
+---
 
 
 
