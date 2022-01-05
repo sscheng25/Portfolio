@@ -5,7 +5,6 @@
 ### Machine Learning Predictions 
 
 [On-street Parking Demand Prediction in San Francisco](https://sscheng25.github.io/Portfolio/ParkingDemand_SanFrancisco.html)
-<img src="images/parking_prediction.png?raw=true"/>
 <img src="images/parking.gif?raw=true"/>
 
 ---
@@ -26,7 +25,11 @@
 ### Web Application Design
 
 - [App on Parking Demand Forecast and Dynamic Pricing in San Francisco](https://sscheng25.github.io/Portfolio/ParkingDemand_SanFrancisco.html)
+
+The web-based APP is designed towards SFMTA (San Francisco Municipal Transportation Agency) for helping them monitor the real-time parking hotspots and future on-street parking demands, and make dynamic pricing according to the demand.
+
 <img src="images/wireframe1.png?raw=true"/>
+
 <img src="images/wireframe2.png?raw=true"/>
 
 
