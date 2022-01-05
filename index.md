@@ -33,8 +33,11 @@
 ### Web-based Dashboard
 
 - [Neighborhood Livability Evaluation in Chicago](https://storage.googleapis.com/shimin_sisun_cloud/overview.html)
+<img src="images/neighborhood_dashboard.png?raw=true"/>
 
-We evaluated the safety and convenience of each neighborhood in Chicago based on crime data and local amenities. In this project, data pipeline is built which extracts data from various 3rd-party sources, loads the data into google cloud storage, transforms the data into appropriate form with google big query. Web-based report with maps and charts is rendered and updated periodically through Airflow on our virtual machine.
+We evaluated the safety and convenience of each neighborhood in Chicago based on crime data and local amenities. 
+
+In this project, data pipeline is built which extracts data from various 3rd-party sources, loads the data into google cloud storage, transforms the data into appropriate form with google big query. Web-based report with maps and charts is rendered and updated periodically through Airflow on our virtual machine.
 
 
 
