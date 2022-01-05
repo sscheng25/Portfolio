@@ -4,21 +4,21 @@
 
 ### MUSA 508 Projects 
 
-[On-street Parking Demand Prediction and Dynamic Pricing Strategy in San Francisco](https://sscheng25.github.io/Portfolio/TheftPrediction_Chicago.html)
-<img src="images/House_Price_Prediction.png?raw=true"/>
+[On-street Parking Demand Prediction and Dynamic Pricing Strategy in San Francisco](https://sscheng25.github.io/Portfolio/ParkingDemand_SanFrancisco.html)
+<img src="images/parking_prediction.png?raw=true"/>
 
 ---
 
-[House Price Prediction in Boulder County, CO](https://github.com/sscheng25/MUSA508_HousePricePrediction)
-<img src="images/House_Price_Prediction.png?raw=true"/>
+[House Price Prediction in Boulder County, CO](https://sscheng25.github.io/Portfolio/HousePricePrediction_Boulder.html)
+<img src="images/house_price.png?raw=true"/>
 
 ---
-[Crime Prediction in Chicago](https://github.com/sscheng25/MUSA508_CrimePrediction)
+[Theft Prediction in Chicago](https://sscheng25.github.io/Portfolio/TheftPrediction_Chicago.html)
 <img src="images/Theft_Prediction.png?raw=true"/>
 
 ---
-[Human-based Regression](https://github.com/sscheng25/MUSA508_Human-base-regression)
-<img src="images/Human-based_Regression.png?raw=true"/>
+[Bike Share Prediction and Analysis in Philadelphia](https://sscheng25.github.io/Portfolio/BikeSharePrediction_Philadelphia.html)
+<img src="images/bike_share.png?raw=true"/>
 
 ---
 
