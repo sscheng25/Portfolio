@@ -4,8 +4,9 @@
 
 ### Machine Learning Predictions 
 
-[On-street Parking Demand Prediction and Dynamic Pricing Strategy in San Francisco](https://sscheng25.github.io/Portfolio/ParkingDemand_SanFrancisco.html)
+[On-street Parking Demand Prediction in San Francisco](https://sscheng25.github.io/Portfolio/ParkingDemand_SanFrancisco.html)
 <img src="images/parking_prediction.png?raw=true"/>
+<img src="images/parking.gif?raw=true"/>
 
 ---
 
@@ -22,27 +23,37 @@
 
 ---
 
-### Web-based Applications
+### Web Application Design
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [App on Parking Demand Forecast and Dynamic Pricing in San Francisco](https://sscheng25.github.io/Portfolio/ParkingDemand_SanFrancisco.html)
+<img src="images/wireframe1.png?raw=true"/>
+<img src="images/wireframe2.png?raw=true"/>
 
 
 ---
 
-### Web-based Dashboard
+### Web-based Dashboard and Reports
 
 - [Neighborhood Livability Evaluation in Chicago](https://storage.googleapis.com/shimin_sisun_cloud/overview.html)
+
 <img src="images/neighborhood_dashboard.png?raw=true"/>
 
 We evaluated the safety and convenience of each neighborhood in Chicago based on crime data and local amenities. 
 
 In this project, data pipeline is built which extracts data from various 3rd-party sources, loads the data into google cloud storage, transforms the data into appropriate form with google big query. Web-based report with maps and charts is rendered and updated periodically through Airflow on our virtual machine.
 
+---
+
+- [National Parks Guide for Travelers](https://sscheng25.github.io/Tourist_Guide_for_National_Parks/)
+
+<img src="images/national_park.png?raw=true"/>
+
+In this project, we aim to make recommendations of the national parks in the US, especially for the Christmas holiday, 2021. 
+
+We ranked the 61 national parks based on sentiment analysis results of Twitter comments and visitor numbers. Cluster analysis on the national parks was carried out based on a wide range of park characteristics and made analysis on the surroundings. We also gathered the air ticket price of the national parks from PHL during this Christmas holiday and visualize it with interactive map and charts.
 
 
 ---
-
 
 
 ---
