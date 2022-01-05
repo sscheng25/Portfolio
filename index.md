@@ -24,7 +24,7 @@
 
 ### Web Application Design
 
-- [App on Parking Demand Forecast and Dynamic Pricing in San Francisco](https://sscheng25.github.io/Portfolio/ParkingDemand_SanFrancisco.html)
+[App on Parking Demand Forecast and Dynamic Pricing in San Francisco](https://sscheng25.github.io/Portfolio/ParkingDemand_SanFrancisco.html)
 
 The web-based APP is designed towards SFMTA (San Francisco Municipal Transportation Agency) for helping them monitor the real-time parking hotspots and future on-street parking demands, and make dynamic pricing according to the demand.
 
@@ -37,7 +37,7 @@ The web-based APP is designed towards SFMTA (San Francisco Municipal Transportat
 
 ### Web-based Dashboard and Reports
 
-- [Neighborhood Livability Evaluation in Chicago](https://storage.googleapis.com/shimin_sisun_cloud/overview.html)
+[Neighborhood Livability Evaluation in Chicago](https://storage.googleapis.com/shimin_sisun_cloud/overview.html)
 
 <img src="images/neighborhood_dashboard.png?raw=true"/>
 
@@ -47,7 +47,7 @@ In this project, data pipeline is built which extracts data from various 3rd-par
 
 ---
 
-- [National Parks Guide for Travelers](https://sscheng25.github.io/Tourist_Guide_for_National_Parks/)
+[National Parks Guide for Travelers](https://sscheng25.github.io/Tourist_Guide_for_National_Parks/)
 
 <img src="images/national_park.png?raw=true"/>
 
