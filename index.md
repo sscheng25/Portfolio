@@ -4,6 +4,11 @@
 
 ### MUSA 508 Projects 
 
+[On-street Parking Demand Prediction and Dynamic Pricing Strategy in San Francisco](https://sscheng25.github.io/Portfolio/TheftPrediction_Chicago.html)
+<img src="images/House_Price_Prediction.png?raw=true"/>
+
+---
+
 [House Price Prediction in Boulder County, CO](https://github.com/sscheng25/MUSA508_HousePricePrediction)
 <img src="images/House_Price_Prediction.png?raw=true"/>
 
