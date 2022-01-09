@@ -21,6 +21,11 @@
 <img src="images/bike_share.png?raw=true"/>
 
 ---
+Building Height Regression in San Francisco Bay Area
+<img src="images/building_height_regression.png?raw=true"/>
+
+---
+
 
 ### Web Application Design
 
