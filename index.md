@@ -22,7 +22,9 @@
 
 ---
 Building Height Regression in San Francisco Bay Area
+
 <img src="images/building_height_regression.png?raw=true"/>
+<img src="images/Alamenda_result.png?raw=true"/>
 
 ---
 
