@@ -5,8 +5,13 @@
 ### Machine Learning Predictions 
 
 [On-street Parking Demand Prediction in San Francisco](https://sscheng25.github.io/Portfolio/ParkingDemand_SanFrancisco.html)
+
+This project focuses on 
+
 <img src="images/parking.gif?raw=true"/>
 
+
+``machine learning``
 ---
 
 [House Price Prediction in Boulder County, CO](https://sscheng25.github.io/Portfolio/HousePricePrediction_Boulder.html)
@@ -62,6 +67,5 @@ Aiming to give recommendations of the national parks in the US, especially for t
 ---
 
 
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
