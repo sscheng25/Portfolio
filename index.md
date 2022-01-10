@@ -2,9 +2,9 @@
 
 ---
 
-### Machine Learning Predictions 
+## Machine Learning Predictions 
 
-[On-street Parking Demand Prediction in San Francisco](https://sscheng25.github.io/Portfolio/ParkingDemand_SanFrancisco.html)
+### [On-street Parking Demand Prediction in San Francisco](https://sscheng25.github.io/Portfolio/ParkingDemand_SanFrancisco.html)
 
 This project focuses on prediction of on-street parking demand in different time of a day, and day of a week in different locations (represented by fishnet grids here). The prediction results can contribute to the pricing procedure of on-street parking to prevent overuse of parking resources.
 
@@ -43,7 +43,7 @@ This project combines a series of raster features from GEE (Google Earth Engine)
 ---
 
 
-### Web Application Design
+## Web Application Design
 
 [App on Parking Demand Forecast and Dynamic Pricing in San Francisco](https://sscheng25.github.io/Portfolio/ParkingDemand_SanFrancisco.html)
 
@@ -56,7 +56,7 @@ The web-based APP is designed towards SFMTA (San Francisco Municipal Transportat
 
 ---
 
-### Web-based Dashboard and Reports
+## Web-based Dashboard and Reports
 
 [Neighborhood Livability Evaluation in Chicago](https://storage.googleapis.com/shimin_sisun_cloud/overview.html)
 
