@@ -6,12 +6,10 @@
 
 [On-street Parking Demand Prediction in San Francisco](https://sscheng25.github.io/Portfolio/ParkingDemand_SanFrancisco.html)
 
-This project focuses on spatio-temperal prediction of on-street parking demands, for 
+This project focuses on prediction of on-street parking demand in different time of a day, and day of a week in different locations (represented by fishnet grids here). The prediction results can contribute to the pricing procedure of on-street parking to prevent overuse of parking resources.
 
 <img src="images/parking.gif?raw=true"/>
 
-
-``machine learning`` `machine learning` ```machine learning```
 ---
 
 [House Price Prediction in Boulder County, CO](https://sscheng25.github.io/Portfolio/HousePricePrediction_Boulder.html)
