@@ -13,14 +13,23 @@ This project focuses on prediction of on-street parking demand in different time
 ---
 
 [House Price Prediction in Boulder County, CO](https://sscheng25.github.io/Portfolio/HousePricePrediction_Boulder.html)
+
+In this project, house price prediction for Zillow is carried out with multi-resource commercial and socio-economic data. Feature engineering is an important part of the project, which helps achieve a satifying accuracy and generalizability.
+
 <img src="images/house_price.png?raw=true"/>
 
 ---
 [Theft Prediction in Chicago](https://sscheng25.github.io/Portfolio/TheftPrediction_Chicago.html)
+
+Theft risk is a function of exposure to a series of geospatial risk and protective factors, such as blight or recreation centers, respectively. The assumption is that as exposure to risk factors increases, so does theft risk. 
+
 <img src="images/Theft_Prediction.png?raw=true"/>
 
 ---
 [Bike Share Prediction and Analysis in Philadelphia](https://sscheng25.github.io/Portfolio/BikeSharePrediction_Philadelphia.html)
+
+This project focuses on bike share prediction in Philadelphia, and time factor is explicitly taken into consideration. The model takes advantage of temporal correlation, or serial correlation to achieve better prediction.
+
 <img src="images/bike_share.png?raw=true"/>
 
 ---
