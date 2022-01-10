@@ -55,7 +55,7 @@ The web-based APP is designed towards SFMTA (San Francisco Municipal Transportat
 
 ---
 
-## Web-based Dashboard and Reports
+## Web-based Dashboards and Reports
 
 ### [Neighborhood Livability Evaluation in Chicago](https://storage.googleapis.com/shimin_sisun_cloud/overview.html)
 
@@ -70,6 +70,7 @@ Aiming to give recommendations of the national parks in the US, especially for t
 
 <img src="images/national_park.png?raw=true"/>
 
+<img src="images/cluster.png?raw=true"/>
 
 ---
 
