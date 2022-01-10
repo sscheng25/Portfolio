@@ -10,7 +10,6 @@ This project focuses on prediction of on-street parking demand in different time
 
 <img src="images/parking.gif?raw=true"/>
 
----
 
 ### [House Price Prediction in Boulder County, CO](https://sscheng25.github.io/Portfolio/HousePricePrediction_Boulder.html)
 
@@ -18,21 +17,21 @@ In this project, house price prediction for Zillow is carried out with multi-res
 
 <img src="images/house_price.png?raw=true"/>
 
----
+
 ### [Theft Prediction in Chicago](https://sscheng25.github.io/Portfolio/TheftPrediction_Chicago.html)
 
 Theft risk is a function of exposure to a series of geospatial risk and protective factors, such as blight or recreation centers, respectively. The assumption is that as exposure to risk factors increases, so does theft risk. 
 
 <img src="images/Theft_Prediction.png?raw=true"/>
 
----
+
 ### [Bike Share Prediction and Analysis in Philadelphia](https://sscheng25.github.io/Portfolio/BikeSharePrediction_Philadelphia.html)
 
 This project focuses on bike share prediction in Philadelphia, and time factor is explicitly taken into consideration. The model takes advantage of temporal correlation, or serial correlation to achieve better prediction.
 
 <img src="images/bike_share.png?raw=true"/>
 
----
+
 ### Building Height Regression in San Francisco Bay Area
 
 This project combines a series of raster features from GEE (Google Earth Engine) and vector features processed in ArcGIS to predict the building height in San Francisco Bay Area. Visualizations and 3D mappings are carried out.
@@ -64,7 +63,6 @@ Evaluation of the safety and convenience of each neighborhood in Chicago based o
 
 <img src="images/neighborhood_dashboard.png?raw=true"/>
 
----
 
 ### [National Parks Guide for Travelers](https://sscheng25.github.io/Tourist_Guide_for_National_Parks/)
 
