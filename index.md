@@ -35,6 +35,8 @@ This project focuses on bike share prediction in Philadelphia, and time factor i
 ---
 Building Height Regression in San Francisco Bay Area
 
+This project combines a series of raster features from GEE (Google Earth Engine) and vector features processed in ArcGIS to predict the building height in San Francisco Bay Area. Visualizations and 3D mappings are carried out.
+
 <img src="images/building_height_regression.png?raw=true"/>
 <img src="images/Alamenda_result.png?raw=true"/>
 
