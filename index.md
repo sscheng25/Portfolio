@@ -72,6 +72,12 @@ Aiming to give recommendations of the national parks in the US, especially for t
 
 <img src="images/cluster.png?raw=true"/>
 
+### Sentiment Analysis on Yelp Reviews in Pittsburgh
+
+Exploration on Yelp restaurant reviews and the relationship between Yelp stars the polarity and subjectivity of comments in Pittsburgh, PA.
+
+<img src="images/polarity.png?raw=true"/>
+
 ---
 
 
