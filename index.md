@@ -19,6 +19,13 @@ In this project, our group dive deep into road pavement studies, build Random Fo
 <img src="images/PredictionsStreets.jpg?raw=true"/>
 
 
+### [Worldwide Population Aging and Birth Rate Prediction](https://colab.research.google.com/drive/1XDtplMltjjVWxYA4Ix3S1Ik3b6KzM2A_?usp=sharing)
+
+There are two main parts in this project, the first part focus on aging level prediction with multiple features extracted from the dataset and the second part focus on time series prediction for birth rate in 20 years.
+
+<img src="images/aging.jpg?raw=true"/>
+
+
 ### [House Price Prediction in Boulder County, CO](https://sscheng25.github.io/Portfolio/HousePricePrediction_Boulder.html)
 
 In this project, house price prediction for Zillow is carried out with multi-resource commercial and socio-economic data. Feature engineering is an important part of the project, which helps achieve a satifying accuracy and generalizability.
