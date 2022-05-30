@@ -50,26 +50,26 @@ This project combines a series of raster features from GEE (Google Earth Engine)
 ---
 
 
-## Web Application Design
+## Web Application Design and Development
 
-### [App on Parking Demand Forecast and Dynamic Pricing in San Francisco](https://sscheng25.github.io/Portfolio/ParkingDemand_SanFrancisco.html)
+### [Pavement Repairment Prioritization Dashboard for the City of El Paso, TX](https://jennaepstein.github.io/El_Paso_Road_Viewer/)
 
-The web-based APP is designed towards SFMTA (San Francisco Municipal Transportation Agency) for helping them monitor the real-time parking hotspots and future on-street parking demands, and make dynamic pricing according to the demand.
+This app serves to assist the El Paso Capital Improvement Department in prioritizing road repair projects by overlaying Pavement Conditions Index (PCI) scores on different layers of interest.
 
-<img src="images/wireframe1.png?raw=true"/>
+<img src="images/pavementDashboard.png?raw=true"/>
 
-<img src="images/wireframe2.png?raw=true"/>
+### [San Francisco Parking APP](https://sscheng25.github.io/SF_Parking_APP/home.html)
+
+To give a better sense of on-street parking demands to the public and guide the drivers to nearest off-street parking sites, I carry out this web APP with two main parts, an on-street parking dashboard and a off-street parking map with interactive functions.
+
+<img src="images/sf_parking2.png?raw=true"/>
+
+<img src="images/sf_parking1.png?raw=true"/>
 
 
 ---
 
 ## Web-based Dashboards and Reports
-
-### [Pavement Repairment Prioritization Dashboard for the City of El Paso, TX](https://jennaepstein.github.io/El_Paso_Road_Viewer/)
-
-This tool serves to assist the El Paso Capital Improvement Department in prioritizing road repair projects by overlaying Pavement Conditions Index (PCI) scores on different layers of interest.
-
-<img src="images/pavementDashboard.png?raw=true"/>
 
 ### [Neighborhood Livability Evaluation in Chicago](https://sscheng25.github.io/Portfolio/html_output/overview.html)
 
