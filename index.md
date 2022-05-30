@@ -21,9 +21,9 @@ In this project, our group dive deep into road pavement studies, build Random Fo
 
 ### [Worldwide Population Aging and Birth Rate Prediction](https://colab.research.google.com/drive/1XDtplMltjjVWxYA4Ix3S1Ik3b6KzM2A_?usp=sharing)
 
-There are two main parts in this project, the first part focus on aging level prediction with multiple features extracted from the dataset and the second part focus on time series prediction for birth rate in 20 years.
+There are two main parts in this project, the first part focus on aging level prediction with multiple features extracted from the Health, Nutrition, and Population Statistics dataset and the second part focus on time series prediction for birth rate in 20 years.
 
-<img src="images/aging.jpg?raw=true"/>
+<img src="images/aging.png?raw=true"/>
 
 
 ### [House Price Prediction in Boulder County, CO](https://sscheng25.github.io/Portfolio/HousePricePrediction_Boulder.html)
