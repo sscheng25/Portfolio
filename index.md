@@ -4,6 +4,12 @@
 
 ## Machine Learning Predictions 
 
+### [Pavement Condition Prediction for the City of El Paso, TX](https://sscheng25.github.io/Portfolio/ParkingDemand_SanFrancisco.html)
+
+This project focuses on prediction of on-street parking demand in different time of a day, and day of a week in different locations (represented by fishnet grids here). The prediction results can contribute to the pricing procedure of on-street parking to prevent overuse of parking resources.
+
+<img src="images/parking.gif?raw=true"/>
+
 ### [On-street Parking Demand Prediction in San Francisco](https://sscheng25.github.io/Portfolio/ParkingDemand_SanFrancisco.html)
 
 This project focuses on prediction of on-street parking demand in different time of a day, and day of a week in different locations (represented by fishnet grids here). The prediction results can contribute to the pricing procedure of on-street parking to prevent overuse of parking resources.
