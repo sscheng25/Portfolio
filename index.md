@@ -65,6 +65,12 @@ The web-based APP is designed towards SFMTA (San Francisco Municipal Transportat
 
 ## Web-based Dashboards and Reports
 
+### [Pavement Repairment Prioritization Dashboard for the City of El Paso, TX](https://jennaepstein.github.io/El_Paso_Road_Viewer/)
+
+This tool serves to assist the El Paso Capital Improvement Department in prioritizing road repair projects by overlaying Pavement Conditions Index (PCI) scores on different layers of interest.
+
+<img src="images/pavementDashboard.png?raw=true"/>
+
 ### [Neighborhood Livability Evaluation in Chicago](https://sscheng25.github.io/Portfolio/html_output/overview.html)
 
 Evaluation of the safety and convenience of each neighborhood in Chicago based on crime data and local amenities. 
