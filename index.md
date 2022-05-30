@@ -4,17 +4,19 @@
 
 ## Machine Learning Predictions 
 
-### [Pavement Condition Prediction for the City of El Paso, TX](https://sscheng25.github.io/Portfolio/ParkingDemand_SanFrancisco.html)
-
-This project focuses on prediction of on-street parking demand in different time of a day, and day of a week in different locations (represented by fishnet grids here). The prediction results can contribute to the pricing procedure of on-street parking to prevent overuse of parking resources.
-
-<img src="images/parking.gif?raw=true"/>
-
 ### [On-street Parking Demand Prediction in San Francisco](https://sscheng25.github.io/Portfolio/ParkingDemand_SanFrancisco.html)
 
 This project focuses on prediction of on-street parking demand in different time of a day, and day of a week in different locations (represented by fishnet grids here). The prediction results can contribute to the pricing procedure of on-street parking to prevent overuse of parking resources.
 
 <img src="images/parking.gif?raw=true"/>
+
+
+### [Pavement Condition Prediction for the City of El Paso, TX](https://pennmusa.github.io/MUSA_801.io/project_28/index.html)
+
+In this project, our group dive deep into road pavement studies, build Random Forest model to predict pavement conditions for 24000+ road segments in the City of El Paso, TX, and collaborate with El Paso Capital Improvement Department to help them better allocate funding and resources.
+
+
+<img src="images/PredictionsStreets.jpg?raw=true"/>
 
 
 ### [House Price Prediction in Boulder County, CO](https://sscheng25.github.io/Portfolio/HousePricePrediction_Boulder.html)
